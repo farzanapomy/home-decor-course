@@ -5,6 +5,10 @@
     color: green;    
     line-height: 10px;
 }
+.header-section h4{
+    text-align: right;
+    color: grey;
+}
 .header-section img{
     width: 150px;
     height: 100px;

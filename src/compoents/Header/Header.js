@@ -9,8 +9,13 @@ const Header = () => {
                 <img src={img} alt="" />
                 <div className="title">
                     <h1>Gardiva.com</h1>
+                    <div>
+                        <h4>"We may think we are nurturing our garden, but of course it's our garden that is really nurturing us." Jenny Uglow</h4>
+                        </div>
                 </div>
+
             </div>
+
             <br />
             <div className="nav-ber">
                 <NavLink to="/home">Home</NavLink>

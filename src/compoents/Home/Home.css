@@ -1,0 +1,12 @@
+title{
+    color: green;
+    text-shadow: 5px 5px 45px  green;
+}
+.demo-Service{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+   
+    margin-bottom: 20px;
+
+}

@@ -1,0 +1,17 @@
+
+.demo-section img{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+.demo-section{
+    width: 350px;
+    padding:20 px;
+    margin: 20px;
+}
+.demo-section h3{
+    color: green;
+}
+.demo-section Button{
+    margin: 20px;
+}

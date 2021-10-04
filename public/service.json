@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Interior design for home offices",
+        "description": "For her radical redesign of a Park Avenue apartment, Jennifer Post carved six distinct areas out of the 900-square-foot space. The home office occupies an entire bedroom wall.",
+        "price": 2300,
+        "img": "https://media.architecturaldigest.com/photos/55e79889cd709ad62e903348/master/w_1600%2Cc_limit/dam-images-homes-2011-04-work_order-01_work_order.jpg",
+        "level": 5
+    },
+    {
+        "name": "Bedroom design for optimal sleep",
+        "description": "Your bedroom setting is vital to getting consistent sleep. Creating a bedroom environment that is conducive for falling asleep and staying asleep is a key part of sleep hygiene, which can enable quality rest night after night.",
+        "price": 2400,
+        "img": "https://image.freepik.com/free-psd/interior-modern-bedroom-wall-mockup_354781-218.jpg",
+        "level": 6
+    },
+    {
+        "name": "Low-maintenance gardening for busy people",
+        "description": "We’ve discussed how you can create a low-maintenance garden previously, but the focus of today’s blog post is on choosing the best, low or in some cases no maintenance plants to fill your garden with.",
+        "price": 2500,
+        "img": "https://assets.site-static.com/userFiles/1681/image/uploads/agent-1/low-maintenance-landscaping.jpg",
+        "level": 7
+    },
+    {
+        "name": "A step-by-step guide to growing your own herbs at home",
+        "description": "If youre spending plenty of time at home while under self-quarantine during this coronavirus outbreak, I have the perfect at-home project for you: Plant some herbs. They grow well indoors and outdoors, they are cheap to grow and it gives you -- and maybe the kids",
+        "price": 2600,
+        "img": "https://img.jamieoliver.com/home/wp-content/uploads/2015/07/plantpots630x420-1.jpg",
+        "level": 8
+    }
+]
