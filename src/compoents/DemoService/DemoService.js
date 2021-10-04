@@ -12,7 +12,7 @@ const DemoService = (props) => {
                 <CardHeader
                     title={name}
                 />
-                <p>Course fee: {price}</p>
+                <h4>Course fee: {price}</h4>
 
                 <CardContent>
                     <Typography variant="body2" color="text.secondary">

@@ -5,10 +5,10 @@ import Header from './compoents/Header/Header';
 import Home from './compoents/Home/Home';
 import About from './compoents/About/About';
 import NotFound from './compoents/NotFound/NotFound';
-import Service from './compoents/Service/Service';
 import Reviews from './compoents/Reviews/Reviews';
 import Footer from './compoents/Footer/Footer';
 import Services from './compoents/Services/Services';
+import Login from './compoents/Login/Login';
 
 function App() {
 
@@ -27,7 +27,10 @@ function App() {
             <About></About>
           </Router>
           <Route path="/service">
-           <Services></Services>
+            <Services></Services>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
           <Route path="/review">
             <Reviews></Reviews>

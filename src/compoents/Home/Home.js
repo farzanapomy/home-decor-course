@@ -2,11 +2,17 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import DemoService from '../DemoService/DemoService';
+import DisplayHome from '../DisplayHome/DisplayHome';
 import './Home.css'
 
 const Home = () => {
-
     const [services, setServices] = useState([]);
+    const [display, setDisplay] = useState([])
+    useEffect(() => {
+        fetch('./home.json')
+            .then(res => res.json())
+            .then(data => setDisplay(data))
+    }, [])
 
     useEffect(() => {
         fetch('./service.json')
@@ -17,7 +23,16 @@ const Home = () => {
 
     return (
         <div>
-            <h1>hello i am home </h1>
+
+            <h1>Learn to garden and home decor course</h1>
+            <div className="display-home">
+                {
+                    display.map(displayHome => <DisplayHome
+                    key={displayHome.level}
+                        displayHome={displayHome}
+                    ></DisplayHome>)
+                }
+            </div>
 
 
             {/* services section  */}

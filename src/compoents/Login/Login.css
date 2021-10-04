@@ -1,0 +1,15 @@
+.login-form input{
+    background-color: rgba(50, 205, 50, 0.418);
+    text-align: center;
+    padding: 8px 80px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.login-form button{
+    font-size: large;
+    padding: 8px 35px;
+    margin: 5px;
+    background-color: mediumseagreen;
+    border-radius: 8px;
+
+}
