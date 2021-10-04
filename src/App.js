@@ -9,6 +9,7 @@ import Reviews from './compoents/Reviews/Reviews';
 import Footer from './compoents/Footer/Footer';
 import Services from './compoents/Services/Services';
 import Login from './compoents/Login/Login';
+import Successful from './compoents/Successful/Successful';
 
 function App() {
 
@@ -31,6 +32,9 @@ function App() {
           </Route>
           <Route path="/login">
             <Login></Login>
+          </Route>
+          <Route path="/successful">
+            <Successful></Successful>
           </Route>
           <Route path="/review">
             <Reviews></Reviews>

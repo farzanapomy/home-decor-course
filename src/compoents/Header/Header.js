@@ -1,4 +1,4 @@
-import { faCoffee,faHome } from '@fortawesome/free-solid-svg-icons';
+import { faCoffee, faHome } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { NavLink } from 'react-router-dom';
@@ -23,8 +23,8 @@ const Header = () => {
             <br />
             <div className="nav-ber">
                 <NavLink to="/home">Home</NavLink>
-                <NavLink to="/about">About</NavLink>
                 <NavLink to="/service">Service</NavLink>
+                <NavLink to="/about">About Us</NavLink>
                 <NavLink to="/review">Reviews</NavLink>
                 <NavLink to="/login">Sign Up</NavLink>
             </div>

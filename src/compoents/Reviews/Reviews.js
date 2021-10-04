@@ -14,6 +14,7 @@ const Reviews = () => {
         <div>
             {
                 reviews.map(review => <Review
+                key={review.level}
                     review={review}
                 ></Review>)
             }

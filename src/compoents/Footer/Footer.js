@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="footer-section">
             <div>
                 <h2>Gardiva.com</h2>
-                <p>Adress : Gardiva. IIUC Tower, 1700/A, Plot-9. Shekh  Mujib Road, 
+                <p>Adress : Gardiva. IIUC Tower, 1700/A, Plot-9. Shekh  Mujib Road 
                   <p></p> 
                 Chittagong-4100. BD - 4100 CHITTAGONG Bangladesh</p>
                 <p>Email : Gardiva@gmail.com</p>
