@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Service.css'
 const Service = (props) => {
-    const { name, description, price, img, level } = props.service;
+    const { name, description, price, img } = props.service;
 
 
     return (

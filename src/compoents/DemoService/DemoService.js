@@ -6,8 +6,7 @@ const DemoService = (props) => {
     const { name, description, price, img } = props.demoService
     return (
         <div className="demo-section">
-
-            <Card sx={{ maxWidth: 345 }}>
+            <Card sx={{ maxWidth: 350 , maxHeight:700 }}>
                 <img src={img} alt="" />
                 <CardHeader
                     title={name}

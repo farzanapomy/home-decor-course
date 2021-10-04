@@ -1,20 +1,21 @@
 .service-section img{
     width: 350px;
     height: 300px;
+    border-radius: 10px;
 }
 .service-section{
+    margin: 30px;
     width: 350px;
     padding: 10px;
-   height: 670px;
-    border: 1px solid gray;
+    height: 650px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    line-height: 20px;
 }
 .service-section:hover{
     background-color: rgba(70, 173, 70, 0.829);
     color: white;
 }
-/* .service-section h3{
-    color: green;
+.service-section link{
+    text-decoration: none;
 }
-.service-section h3:hover{
-    color: white;
-} */

@@ -1,13 +1,14 @@
 
 .demo-section img{
-    width: 350px;
-    height: 300px;
+    width: 300px;
+    height: 250px;
     border-radius: 20px;
 }
 .demo-section{
-    width: 350px;
-    padding:20 px;
+    background-color: rgba(0, 128, 0, 0.171);
+    padding:20px 25px;
     margin: 20px;
+    line-height: 1px;
 }
 .demo-section h3{
     color: green;

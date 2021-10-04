@@ -8,21 +8,21 @@
     },
     {
         "name": "Minimalist Decor",
-        "description": "Light colors such as white along with understated neutrals, barely-there greys, and pastels are intrinsic to minimalist homes. Though you could add brighter colors, we suggest you stick to one or two and limit the dosage.",
+        "description": "Light colors such as white along with understated neutrals, barely-there greys, and pastels are intrinsic to minimalist homes. Though you we suggest you stick to one or two and limit the dosage.",
         "price": 2000,
         "img": "https://image.freepik.com/free-photo/modern-minimalist-interior-living-room_33739-472.jpg",
         "level": 2
     },
     {
         "name": "How to organise your home in small spaces",
-        "description": "I have lived in a lot of small spaces in my lifetime. During my first year of college, my dorm room was what they called a \"converted triple,\" meaning that it was actually made for two people, but they stuck three of us in there. ",
+        "description": "I have lived in a lot of small spaces in my lifetime. During my first year of college,meaning that it was actually made for two people, but they stuck three of us in there. ",
         "price": 2100,
         "img": "https://as1.ftcdn.net/v2/jpg/03/95/23/64/500_F_395236488_DhgO55LNAg1WXcuyJQ6THdnmW8Smk6in.jpg",
         "level": 3
     },
     {
         "name": "Taking care of succulents",
-        "description": "Succulents love light and need about six hours of sun per day, depending on the type of succulent. Newly planted succulents can scorch in direct sunlight, so you may need to gradually introduce them to full sun exposure or provide shade with a sheer curtain.",
+        "description": "Succulents love light and need about six hours of sun per day, depending on the type of succulent. Newly planted succulents can scorch in introduce them to full sun exposure or provide shade with a sheer curtain.",
         "price": 2200,
         "img": "https://image.freepik.com/free-photo/woman-gardeners-transplanting-plant-ceramic-pots-design-wooden-table-concept-home-garden-spring-time-stylish-interior-with-lot-plants-taking-care-home-plants-template_431307-4372.jpg",
         "level": 4
@@ -43,14 +43,14 @@
     },
     {
         "name": "Low-maintenance gardening for busy people",
-        "description": "We’ve discussed how you can create a low-maintenance garden previously, but the focus of today’s blog post is on choosing the best, low or in some cases no maintenance plants to fill your garden with.",
+        "description": "We’ve discussed how you can create a low-maintenance garden previously, but the focus of today’s blog post is on choosing the best,plants to fill your garden with.",
         "price": 2500,
         "img": "https://assets.site-static.com/userFiles/1681/image/uploads/agent-1/low-maintenance-landscaping.jpg",
         "level": 7
     },
     {
         "name": "A step-by-step guide to growing your own herbs at home",
-        "description": "If youre spending plenty of time at home while under self-quarantine during this coronavirus outbreak, I have the perfect at-home project for you: Plant some herbs. They grow well indoors and outdoors, they are cheap to grow and it gives you -- and maybe the kids",
+        "description": "If youre spending plenty of time at home while under self-quarantine during this coronavirus outbreak, I have the perfect grow and it gives you -- and maybe the kids",
         "price": 2600,
         "img": "https://img.jamieoliver.com/home/wp-content/uploads/2015/07/plantpots630x420-1.jpg",
         "level": 8
@@ -64,7 +64,7 @@
     },
     {
         "name": "All-natural weed control and pruning",
-        "description": "ven in the best of plots, weeds will grow. And why wouldnt they? Youve provided inviting soil and the sun shines on even the most reviled plant. If you are fighting the good fight against those unwelcome visitors, there is no shortage of chemical option.",
+        "description": "ven in the best of plots, weeds will grow. And why wouldnt they? Youve provided inviting soil and the sun no shortage of chemical option.",
         "price": 2800,
         "img": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/10/30/0/weeds.jpg.rend.hgtvcom.616.462.suffix/1452647202156.jpeg",
         "level": 10
