@@ -5,4 +5,4 @@
 
 Thank You !
 
-my weSite https://home-decor-course.netlify.app/service
+my weSite https://home-decor-course.netlify.app/
